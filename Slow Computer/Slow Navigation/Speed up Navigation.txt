@@ -1,0 +1,59 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------SLOW Navigation-------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+This document contains the steps that I have found are the best to take to optimize some speed and make 
+navigating across the computer a little bit faster. 
+
+1. Change appearance in Performance Options (highly recommended)
+	i. In your search on the start menu type appearance > click adjust the appearance and performance of windows
+	   > click the option for adjust for best performance which will deselect everything > be sure to re-select
+	   the two options for 1. Smooth edges of screen fonts and 2. Smooth-scroll list boxes > click ok
+	ii. This step has had the most impact on PC's so far that I have seen/worked on
+	iii.There is a noticable differenct in look for windows 7 but Windows 10 seems to not look any different
+
+2. Change power settings
+	i. From start menu type control panel > from control panel click system and security > power options >
+	   it will allow you to select your "preferred plans" and make sure to select high performance(you might
+	   must select "show additional options" at the bottom of the window. This will boost computing speed, but
+	   require more electricity.
+
+3. Use performance troubleshooter
+	i. From start menu type control panel > from control panel search (top right corner) for troubleshooting
+	   Run the troubleshooter under system and security and it might find the root cause (have not yet had luck 
+	   with this one).
+
+4. Disk Cleanup
+	i. From start menu > type disk cleanup > open the disk cleanup utility which will automatically run
+	   > It will tell you how much space will be freed at the top of the window then click OK
+	ii. Enable the storage sense option by typing storage in the start menu > click storage > there is
+	    an option for storage sense and to turn it on. This disk cleanup will only help on machines
+	    struggling with storage space. 
+
+If you are still running into a slow PC, follow step 5 and 6
+5. Turn off search indexing 
+	i. Type indexing options into start menu search > click modify > uncheck the options for locations or file
+	   types you don’t need indexed. 
+	ii. Doing this will make searching for things in what you de-selected will take much more time, but if you never
+	    use these things it will make other things run smoother. Basically, this feature just assigned an ID to every
+	    piece of data in the different things like Outlook, or File explorer which make it much faster to find things
+	    when using the search bar. This can also always be re enabled if it ends up causing more issues. 
+
+6. Remove unwanted programs (You might need an admin account for this)	
+	i. Get to the control panel > click programs > programs and features > scan through the list and find things 
+	   that are not needed or things that you know aren’t important to what you are doing > right click them and 
+	   uninstall them. 
+	ii. Typically after McAfee protection plans have expired this is something I will remove unless I renew the 
+	    protection plan, but I notice that they always have popups and stuff running in the background. Also 
+	    computers and laptops will come with some default apps that are not necessary and can be uninstalled like
+	    CCleaner, shockwave player, Microsoft Silverlight, the Xbox app, and many more can be found.
+
+This page was generated from the following websites (refer to these for more information) 
+https://www.pcmag.com/article/251694/10-tips-to-speed-up-windows-10
+https://www.drivereasy.com/knowledge/100-disk-usage-windows-10-fixed/#temp
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------BY: CHARLES VAUGHAN-----------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,28 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------SLOW EMAIL------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+If your email has slow navigation and clicking between emails and the calendar takes forever do the following
+steps to increase speed. 
+
+1. Remove all Add-ins
+	i. Open outlook > click file (top right) > options (second from bottom) > Add-ins(second from bottom) >
+	   Click where it says go at the bottom of the open window (next to Manage: Com Add-ins) > Deselect all
+	   add ins and click ok
+
+2. Check mailbox size
+	i. Open outlook > click file (top right) > Mailbox size is in middle of the window
+	ii. If you are low on space and know a big chunk of emails that can be deleted that is the best way
+	    to clear up space. If you need to write a rule to permanently delete email's older than a specific 
+	    date this is possible too
+		a. Make sure you are clicked on the mailbox that you would like to delete items in > 
+		   Click rules (top of page on ribbon) > Manage rules and alerts > New Rule(top left of window)
+		   > Set step 1 to receive in a specific date span and select the date you are looking for
+		   > Set step 2 to stop processing more rules and permanently delete it > Click Next >
+		   Select run this rule now on messages already in (Mailbox you have selected) > Click finish 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------BY: CHARLES VAUGHAN-----------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------

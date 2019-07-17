@@ -1,0 +1,35 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------SLOW Startup Speed----------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+This document contains the steps that I have found are the best to take to optimize startup speed. 
+
+The best thing to do in this case is minimize the applications that start on startup
+1. Disable startup applications
+	i. use start menu search to locate the task manager > click startup (one of the tabs) > go through the programs
+	   and determine what you might not need. Anything falling under that category should be right clicked and disabled
+	ii. You can always re enable these and you can also search the startup processes by the impact they have (high being
+	    the most impactful). 
+
+2. Changing boot timeout
+	i. use start menu search to find the run tool > type msconfig and hit enter > click on the boot tab > change
+	   the timeout from 30 seconds to 10 seconds. This will not have a significant impact but will shave a few seconds
+	   off the boot time
+
+3. Defragment your hard drive
+	i. Check with IT to do this
+
+4. Check if fast startup is enabled
+	i. get to control panel > click system and security > poewr options > choos what the power buttons do(left side)
+	   > click change settings that are currently unavailable link > make sure the box next to " turn on fast startup(recommended)
+	   is checked. 
+
+To read more about these steps and trick check out the following links
+https://www.pcworld.com/article/244020/how_to_make_your_windows_pc_boot_faster.html
+https://blog.pcrisk.com/windows/12691-how-to-make-windows-start-faster
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------BY: CHARLES VAUGHAN-----------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
